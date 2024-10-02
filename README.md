@@ -9,3 +9,9 @@ Testing to see if workflow is working for the third time.
 
 # Software Engineering Methods
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/WBarr242/sem/main.yml?branch=develop>)
+
+# Software Engineering Methods
+* Master Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/WBarr242/sem/main.yml?branch=develop)
+* Develop Branch Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/<username>/<repository>/main.yml?branch=<develop branch>)
+* License [![LICENSE](https://img.shields.io/github/license/WBarr242/sem.svg?style=flat-square)](https://github.com/WBarr242/sem/blob/master/LICENSE)
+* Release [![Releases](https://img.shields.io/github/release/WBarr242/sem/all.svg?style=flat-square)](https://github.com/WBarr242/sem/releases)
